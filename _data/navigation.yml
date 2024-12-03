@@ -8,8 +8,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/
@@ -24,7 +24,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/sooyoung_cv_2024_fall.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
