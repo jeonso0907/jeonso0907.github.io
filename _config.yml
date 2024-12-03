@@ -12,7 +12,7 @@ title                    : "Sooyoung Jeon"
 title_separator          : "-"
 name                     : &name "Sooyoung Jeon"
 description              : &description "personal description"
-url                      : jeonso0907.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jeonso0907.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeonso0907/jeonso0907.github.io"
 
