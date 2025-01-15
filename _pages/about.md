@@ -27,13 +27,12 @@ Previously, I received my B.S. degree from [The Ohio State University](https://c
 <td style="border-collapse: collapse; border: none;">
 <b>Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene</b>
 <br>
-<b>Zanming Huang</b>*, Zhongkai Shangguan*, Jimuyang Zhang, Gilad Bar, Matthew Boyd, Eshed Ohn-Bar 
+Tai-Yu Pan, <b>Sooyoung Jeon</b>, Mengdi Fan, Jinsu Yoo, Zhenyang Feng, Mark Campbel, Kilian Q Weinberge, Bharath Hariharan, Wei-Lun Chao 
 
 
-<i>European Conference on Computer Vision (ECCV)</i>, 2022
+<i>Under Review</i>
 <br>
-<span><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">[Paper]</a></span> |
-<span><a href="https://github.com/h2xlab/ASSISTER">[Github]</a></span>
+<span><a href="https://drive.google.com/file/d/1Wmbks1VXRQQcSll2QGBY_W8BI2Bni1e2/view?usp=sharing">[Paper]</a></span>
 </td>
 </tr>  
 
