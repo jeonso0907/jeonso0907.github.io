@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2024-11-14
 venue: 'Under Review'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://drive.google.com/file/d/1Wmbks1VXRQQcSll2QGBY_W8BI2Bni1e2/view?usp=sharing'
+paperurl: 'http://jeonso193.github.io/files/typ_arxiv.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
