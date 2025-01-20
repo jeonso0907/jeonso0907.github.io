@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year M.S. in Computer Science and Engineering student
+My name is Sooyoung Jeon and I am a second year M.S. in Computer Science and Engineering student
 at [The Ohio State University](https://cse.osu.edu/),
 advised by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). I am broadly interested in
 Computer Vision
