@@ -27,7 +27,7 @@ Previously, I received my B.S. degree from [The Ohio State University](https://c
 <td style="border-collapse: collapse; border: none;">
 <b>Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene</b>
 <br>
-Tai-Yu Pan, <b>Sooyoung Jeon</b>, Mengdi Fan, Jinsu Yoo, Zhenyang Feng, Mark Campbel, Kilian Q Weinberge, Bharath Hariharan, Wei-Lun Chao
+Tai-Yu Pan, <b>Sooyoung Jeon</b>, Mengdi Fan, Jinsu Yoo, Zhenyang Feng, Mark Campbell, Kilian Q Weinberger, Bharath Hariharan, Wei-Lun Chao
 <br>
 <i>Under Review</i>
 <br>
