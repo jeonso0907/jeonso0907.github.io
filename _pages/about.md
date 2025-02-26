@@ -29,7 +29,7 @@ Previously, I received my B.S. degree from [The Ohio State University](https://c
 <br>
 Tai-Yu Pan, <b>Sooyoung Jeon</b>, Mengdi Fan, Jinsu Yoo, Zhenyang Feng, Mark Campbell, Kilian Q Weinberger, Bharath Hariharan, Wei-Lun Chao
 <br>
-<i>Under Review</i>
+<i>CVPR 2025</i>
 <br>
 <span><a href="https://arxiv.org/pdf/2502.06682">[paper]</a></span>
 <span><a href="https://arxiv.org/abs/2502.06682">[arXiv]</a></span>
