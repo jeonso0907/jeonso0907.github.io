@@ -37,7 +37,7 @@ Tai-Yu Pan, <b>Sooyoung Jeon</b>, Mengdi Fan, Jinsu Yoo, Zhenyang Feng, Mark Cam
 </tr>
 
 
-<tr style="border-collapse: separate; border-spacing:30em;">
+<!--<tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="../images/graft_pipeline.png" width="800"/> </td>
 
@@ -51,7 +51,7 @@ Jinsu Yoo, <b>Sooyoung Jeon</b>, Tai-Yu Pan, Wei-Lun Chao
 <br>
 <span><a href="https://drive.google.com/file/d/1SlxeasPD5fA8YPqFVCFC017B3W8UuUuL/view?usp=drive_link">[paper]</a></span>
 </td>
-</tr>  
+</tr>-->  
 
 </table>
 
