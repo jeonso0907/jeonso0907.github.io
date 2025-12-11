@@ -38,4 +38,4 @@ and Machine Learning, and their application to autonomous driving and robotics.
 Previously, I received my B.S. in Computer Science and Engineering degree from [The Ohio State University](https://cse.osu.edu/).
 <br>
 
-**Actively Looking For A PhD For Fall 2026**
+**Actively seeking a PhD position for Fall 2026**
