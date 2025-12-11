@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#ff5c39"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
