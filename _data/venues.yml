@@ -10,8 +10,12 @@
 
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#ff5c39"
+  color: "#1B427D"
 
-"arXiv":
+"Preprint":
   url: https://arxiv.org/
-  color: "#b31b1b"
+  color: "#B31B1B"
+
+"NeurIPS":
+  url: https://nips.cc/
+  color: "#212529"

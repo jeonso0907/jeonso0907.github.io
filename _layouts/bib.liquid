@@ -3,27 +3,37 @@
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col-10 col-md-3 abbr">
-      {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
-          {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+      {% assign workshop_link = entry.workshop | default: '' %}
+      {% if entry.abbr or workshop_link != '' %}
+        <div class="abbr-badges {% if entry.abbr and workshop_link != '' %}has-multiple{% endif %}">
+          {%- if entry.abbr -%}
+            {%- if site.data.venues[entry.abbr] -%}
+              {% assign venue_style = null %}
+              {% if site.data.venues[entry.abbr].color != blank %}
+                {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+              {%- endif -%}
+              <abbr
+                class="badge rounded w-100 abbr-badge"
+                {% if venue_style %}
+                  {{ venue_style }}
+                {% endif -%}
+              >
+                {% if site.data.venues[entry.abbr].url %}
+                  <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+                {% else %}
+                  <div>{{- entry.abbr -}}</div>
+                {% endif %}
+              </abbr>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <abbr class="badge rounded w-100 abbr-badge">{{ entry.abbr }}</abbr>
             {% endif %}
-          </abbr>
-        {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
-        {% endif %}
+          {% endif %}
+          {% if workshop_link != '' %}
+            <abbr class="badge rounded w-100 abbr-badge workshop-badge">
+              <a href="{{ workshop_link }}">Workshop</a>
+            </abbr>
+          {% endif %}
+        </div>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

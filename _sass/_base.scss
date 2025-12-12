@@ -755,11 +755,23 @@ footer.sticky-bottom {
       .abbr {
         margin-bottom: 0.5rem;
 
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
+        .abbr-badges {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.35rem;
           margin-bottom: 0.5rem;
+          width: 100%;
+        }
+
+        .abbr-badge {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-color: var(--global-theme-color);
+          margin-bottom: 0;
           color: var(--global-card-bg-color) !important;
+          text-align: center;
+          flex: 0 0 100%;
 
           a {
             color: white;
@@ -768,6 +780,21 @@ footer.sticky-bottom {
               text-decoration: none;
             }
           }
+        }
+
+        .workshop-badge {
+          background-color: #6C757D;
+        }
+
+        .abbr-badges.has-multiple {
+          flex-wrap: nowrap;
+          gap: 2%;
+        }
+
+        .abbr-badges.has-multiple .abbr-badge {
+          flex: 0 0 49%;
+          max-width: 49%;
+          width: auto;
         }
 
         .award {
