@@ -8,6 +8,7 @@ middle_name:
 last_name: Jeon
 contact_note: >
   
+cv_last_updated: "2025/12"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
