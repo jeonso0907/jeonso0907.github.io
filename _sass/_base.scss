@@ -453,6 +453,21 @@ ul.task-list input[type="checkbox"] {
   .contact-note {
     font-size: 0.8rem;
   }
+
+  .contact-icons .cv-link {
+    display: inline-flex;
+    align-items: flex-end;
+    padding: 0.15rem 0;
+  }
+
+  .cv-updated {
+    display: inline-block;
+    margin-left: 0.4rem;
+    font-size: 0.8rem;
+    line-height: 1;
+    color: var(--global-text-color);
+    white-space: nowrap;
+  }
 }
 
 .inline-social {
@@ -494,8 +509,8 @@ ul.task-list input[type="checkbox"] {
 
   .cv-updated {
     display: inline-block;
-    margin-left: 0.4rem;
-    font-size: 0.9rem;
+    margin-left: 0.35rem;
+    font-size: 0.8rem;
     color: var(--global-text-color);
     white-space: nowrap;
     align-self: flex-end;
