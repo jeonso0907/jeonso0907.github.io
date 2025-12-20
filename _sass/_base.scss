@@ -455,6 +455,44 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.inline-social {
+  text-align: center;
+  margin: 1.65rem 0 1.75rem;
+
+  .contact-icons {
+    font-size: 2.4rem;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+  }
+
+  .contact-icons a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.15rem 0;
+  }
+
+  .contact-icons a + a::before {
+    content: '/';
+    font-size: 0.85rem;
+    color: var(--global-divider-color);
+    margin: 0 0.35rem;
+  }
+
+  .contact-note {
+    margin-top: 1.25rem;
+    text-align: center;
+  }
+}
+
+.phd-callout {
+  text-align: center;
+  margin: 0.25rem 0 0;
+  font-size: 1.1rem;
+}
+
 .wechat-modal {
   display: none;
   position: fixed;

@@ -14,7 +14,7 @@ profile:
   #   # <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social block added inline below intro
 
 announcements:
   enabled: false # includes a list of news items
@@ -38,4 +38,11 @@ and Machine Learning, and their application to autonomous driving and robotics.
 Previously, I received my B.S. in Computer Science and Engineering degree from [The Ohio State University](https://cse.osu.edu/).
 <br>
 
-**Actively seeking a PhD position for Fall 2026**
+<div class="social inline-social">
+  <div class="contact-icons">{% include social.liquid %}</div>
+  {% if site.contact_note %}
+  <div class="contact-note">{{ site.contact_note }}</div>
+  {% endif %}
+</div>
+
+<p class="phd-callout"><strong>Actively seeking a PhD position for Fall 2026</strong></p>
