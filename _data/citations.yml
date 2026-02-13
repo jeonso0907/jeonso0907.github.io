@@ -1,9 +1,13 @@
 metadata:
-  last_updated: '2025-12-26'
+  last_updated: '2026-02-13'
 papers:
   KdsJMNQAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Continually Adapt or Not (CAN)? A Continual Learning Benchmark of Camera Trap Species Classification over Time
+    year: Unknown Year
+  KdsJMNQAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: A Survey of Continual Learning for Robotics in the Foundation Model Era
     year: Unknown Year
   KdsJMNQAAAAJ:d1gkVwhDpl0C:
     citations: 0
