@@ -45,4 +45,4 @@ Previously, I received my B.S. in Computer Science and Engineering degree from [
   {% endif %}
 </div>
 
-<p class="phd-callout"><strong>Actively seeking a PhD position for Fall 2026</strong></p>
+<!-- <p class="phd-callout"><strong>Actively seeking a PhD position for Fall 2026</strong></p> -->
