@@ -1,10 +1,10 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-01'
 papers:
   KdsJMNQAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Continually Adapt or Not (CAN)? A Continual Learning Benchmark of Camera Trap Species Classification over Time
-    year: Unknown Year
+    year: '2025'
   KdsJMNQAAAAJ:ULOm3_A8WrAC:
     citations: 0
     title: A Survey of Continual Learning for Robotics in the Foundation Model Era
@@ -17,11 +17,15 @@ papers:
     citations: 0
     title: 'Leveraging Sparse LiDAR for RAFT-Stereo: A Depth Pre-Fill Perspective'
     year: '2025'
+  KdsJMNQAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time
+    year: '2026'
   KdsJMNQAAAAJ:u-x6o8ySG0sC:
     citations: 6
     title: 'Ava-bench: Atomic visual ability benchmark for vision foundation models'
     year: '2025'
   KdsJMNQAAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 4
     title: 'Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene'
     year: '2025'
