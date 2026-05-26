@@ -27,15 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Sooyoung Jeon and I am a third year M.S. in Computer Science and Engineering student
-at [The Ohio State University](https://cse.osu.edu/),
-advised by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). 
+My name is Sooyoung Jeon and I am an incoming Ph.D. in Electrical and Computer Engineering student at [Boston University](https://www.bu.edu/), advised by Prof. [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao).
 
-I am broadly interested in
-Computer Vision
-and Machine Learning, and their application to autonomous driving and robotics.
+I am broadly interested in Computer Vision and Machine Learning, and their application to autonomous driving and robotics.
 
-Previously, I received my B.S. in Computer Science and Engineering degree from [The Ohio State University](https://cse.osu.edu/).
+Previously, I received my M.S. and B.S. in Computer Science and Engineering degree from [The Ohio State University](https://cse.osu.edu/).
 <br>
 
 <div class="social inline-social">
