@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-12'
 papers:
   KdsJMNQAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -26,6 +26,6 @@ papers:
     title: 'Ava-bench: Atomic visual ability benchmark for vision foundation models'
     year: '2025'
   KdsJMNQAAAAJ:u5HHmVD_uO8C:
-    citations: 4
+    citations: 5
     title: 'Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene'
     year: '2025'
