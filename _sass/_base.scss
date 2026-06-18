@@ -838,12 +838,12 @@ footer.sticky-bottom {
           justify-content: center;
           background-color: var(--global-theme-color);
           margin-bottom: 0;
-          color: var(--global-card-bg-color) !important;
+          color: var(--global-card-bg-color);
           text-align: center;
           flex: 0 0 100%;
 
           a {
-            color: white;
+            color: inherit;
 
             &:hover {
               text-decoration: none;

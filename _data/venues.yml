@@ -16,6 +16,11 @@
   url: https://cvpr.thecvf.com/
   color: "#1B427D"
 
+"IROS":
+  url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/
+  color: "#FEC526"
+  text_color: "#000000"
+
 "Preprint":
   url: https://arxiv.org/
   color: "#B31B1B"
