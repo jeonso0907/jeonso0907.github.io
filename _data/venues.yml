@@ -21,6 +21,10 @@
   color: "#FEC526"
   text_color: "#000000"
 
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#2B6FAE"
+
 "Preprint":
   url: https://arxiv.org/
   color: "#B31B1B"
