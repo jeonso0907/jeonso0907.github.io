@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-24'
 papers:
   KdsJMNQAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -15,10 +15,10 @@ papers:
     year: '2026'
   KdsJMNQAAAAJ:d1gkVwhDpl0C:
     citations: 0
-    title: 'Leveraging Sparse LiDAR for RAFT-Stereo: A Depth Pre-Fill Perspective'
+    title: Preserving Guidance in Cost-Volume Retrieval under Extreme LiDAR Sparsity in Iterative Stereo
     year: '2025'
   KdsJMNQAAAAJ:qUcmZB5y_30C:
-    citations: 0
+    citations: 1
     title: Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time
     year: '2026'
   KdsJMNQAAAAJ:u-x6o8ySG0sC:
