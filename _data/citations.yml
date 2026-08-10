@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-08-10'
 papers:
   KdsJMNQAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -17,12 +17,16 @@ papers:
     citations: 0
     title: Preserving Guidance in Cost-Volume Retrieval under Extreme LiDAR Sparsity in Iterative Stereo
     year: '2025'
+  KdsJMNQAAAAJ:hFOr9nPyWt4C:
+    citations: 0
+    title: 'Rethinking Vision Model Evaluation for Real-World Deployment: A Case Study in Camera-Trap'
+    year: '2026'
   KdsJMNQAAAAJ:qUcmZB5y_30C:
     citations: 1
     title: Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time
     year: '2026'
   KdsJMNQAAAAJ:u-x6o8ySG0sC:
-    citations: 7
+    citations: 6
     title: 'Ava-bench: Atomic visual ability benchmark for vision foundation models'
     year: '2025'
   KdsJMNQAAAAJ:u5HHmVD_uO8C:
